@@ -72,13 +72,6 @@ ninja.data = [{
           window.open("mailto:%66%65%64%65%72%69%63%6F%63%64%65%76@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/rendercv/rendercv_output/Federico_Cocco_CV.pdf", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
